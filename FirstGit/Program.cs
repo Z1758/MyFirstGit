@@ -16,7 +16,7 @@
 
         struct Item
         {
-
+            public string name;
         }
 
         static void Main(string[] args)
