@@ -23,6 +23,9 @@
         {
             Player player = new Player() { name = "용사", level = 1 };
             Monster monster = new Monster(){ name = "오크", hp = 10 };
+            
+            
+            
             Console.WriteLine("Hello");
         }
     }
