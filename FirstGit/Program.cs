@@ -14,6 +14,11 @@
             public int hp;
         }
 
+        struct Item
+        {
+
+        }
+
         static void Main(string[] args)
         {
             Player player = new Player() { name = "용사", level = 1 };
